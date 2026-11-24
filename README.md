@@ -2,7 +2,7 @@
 
 A browser-based tool to plan, generate, validate and change monthly rosters for a team spread across brands, processes and pods.
 
-**Live app:** `<paste your deployed URL here>`
+**Live app:** `https://aksharasabde25-alt.github.io/roster-management-system/`
 
 ## Manager login
 
